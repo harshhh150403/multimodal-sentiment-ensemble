@@ -15,7 +15,7 @@ import tensorflow as tf
 # PATHS
 # ==============================================================================
 
-ROOT_FOLDER = "C:/Users/harsh/OneDrive/Desktop/mp_code/root_folder"
+ROOT_FOLDER = "multimodal-sentiment-ensemble/root_folder"
 TRANSCRIPT_PATH = os.path.join(ROOT_FOLDER, "Transcript", "Full")
 VIDEO_PATH = os.path.join(ROOT_FOLDER, "Video", "Full")
 CACHE_DIR = os.path.join(ROOT_FOLDER, "cache")
